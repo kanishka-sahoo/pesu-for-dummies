@@ -1,6 +1,6 @@
 # The Ultimate Guide to PESU
 
-So you've joined PES, and you're all geared up for starting a beautiful 4-year journey in here. But then, you gotta know stuff about PES so that you won't wander around like a lost kid when you're on campus. Dont worry, this guide is specifically for that. Lessgo!
+Welcome to PES! It's time to start your amazing four-year journey. We want to make sure you feel comfortable and knowledgeable about our campus, so we've put together this guide to help you get up to speed. Let's get started!
 
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
@@ -30,7 +30,7 @@ There are three campuses of PESU:
 * The Ring Road Campus (the RR campus)
 * The Electronics City Campus (the EC campus)
 
-Out of these, the HN campus is the oldest and the first ever campus of PES, the RR campus is the most developed and biggest campus, and EC campus is a rather spacious and peaceful one, with a planned medical college and hospital.
+Out of these, the HN campus is the first ever campus of PES, the RR campus is the most developed and the biggest campus, and the EC campus is rather spacious and peaceful, with a planned medical college and hospital.
 
 ---
 
@@ -49,8 +49,7 @@ This is the most important section of this guide, so read each and every bit.
 * ID Card is a must, no matter what else you bring. This is to ensure security in the campus. Also, should you forget to bring your ID Card, you can always show your profile in the PESU App to gain entry to the campus.
 * A minimum of 80 - 85% of attendance is necessary in every subject to be eligible to write the end sems. Did I say every subject? Yes, attendance is taken subject-wise in universities, not day-wise. Please do remember that.
 * You can roam around the campus. There is no restriction on that freedom. As long as you don't break any rules, that is.
-* Please do NOT use smartphones during classes. According to new rules, if you're caught, the SIM card and the memory card will be returned and the phone will not be returned till the end of the semester.
-* 
+* Please DO NOT use smartphones during classes. According to new rules, if you're caught, the SIM card and the memory card will be returned and the phone will not be returned till the end of the semester.
 
 ***
 
@@ -85,12 +84,12 @@ There are three types of examinations/tests held in PES:
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
 
 !!!info 
-There are no lab exams for Physics or Chemistry. Only for C and Python.
+There are no lab exams for Physics or Chemistry. Only for C and Python. Physics may have an MCQ exam based on lab component, but this will be counted as internal marks, not as lab marks.
 !!!
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
-* There is 1 ISA per unit, and is for 20 marks, for 30 minutes.
+* There are 2 ISAs per subject per sem, each covering 2 units. The exam is for 20 marks, for 30 minutes. The final unit will onlt be considered for ESA.
 * The timetable will be sent a week before, and the seating allotment is shown in the app on the day of the respective exam.
 * Majority of the questions are MCQs and some of them are descriptive, for which the answers should be typed in the PC.
 * A rough sheet will be given for calculations.
@@ -101,7 +100,8 @@ One of the most important assessments. Conducted in the assessment centre, it is
 * Written in the assessment centres, and seating allotment is given. Spans for 3 hours.
 * Completely descriptive. You will be given an answer booklet for the exam. 
 * The questions are displayed on the PC, and you can either write the answers or type the answers.
-* You can't leave the exam hall after 45 mins of start of exam, and before 10 mins of end of exam.
+* You can also use both methods, such as typing out a question and drawing a diagram.
+* You can't leave the exam hall in the first 45 minutes and the last 10 minutes of the exam.
 
 ***
 
