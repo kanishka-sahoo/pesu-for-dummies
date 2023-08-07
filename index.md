@@ -92,7 +92,7 @@ There are no lab exams for Physics or Chemistry. Only for C and Python. In Physi
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
-* There are 2 ISAs each having 2 units, and are for 20 marks, for 30 minutes.
+* There are 2 ISAs each having 2 units, and are for 40 marks, for 60 minutes.
 * The timetable will be sent a week before, and the seating allotment is shown in the app on the day of the respective exam.
 * Majority of the questions are MCQs and some of them are descriptive, for which the answers should be typed in the PC.
 * A rough sheet will be given for calculations.
@@ -125,7 +125,7 @@ Course codes are some really planned codes that give you a lot of information ab
 	* `PH` - Subject code
 	* `1` - year of study; can be 1, 2 and so on
 	* `5` - Credits for the course
-	* `1` - Number of courses of the same subject in the semester with the same number of credits
+	* `1` - First Physics course in the sem with the same number of credits
 	* `A` - Letter indicating semester relative to that year; A is the first semester of that year, B is the second, and so on.
 <br><br>
 
@@ -188,7 +188,7 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 ## SPECIAL MENTIONS: THE COOL SENIORS
 
 ### The Legendary Rowlet Owl
-No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
+No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
 Social links: 
 * [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
 * [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
@@ -219,3 +219,4 @@ This project is open-source under PESU Hackerspace Club, and you can contribute 
 * [SilicoFlare](https://github.com/silicoflare)
 * [Kanishka Sahoo](https://github.com/kanishka-sahoo)
 * [Icarus](https://icarus.tk/)
+* [T-JAIWANTH](https://github.com/T-JAIWANTH)
